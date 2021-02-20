@@ -6,14 +6,13 @@
 
 
 body.back1 {
-  div {
        background-image: url("https://fem-fem.nl/app/uploads/2018/01/carnavalsvakantie-oeteldonk-femfem.jpg")no-repeat center center fixed;
        background-size: cover;
        background-color: red;
   }
   
   body.back2 {
-     div {
+
       background-image: url("https://st4.depositphotos.com/1066611/21052/i/600/depositphotos_210523940-stock-photo-pattern-white-painted-brick-wall.jpg")no-repeat center center fixed;
       background-size: cover;
     }
