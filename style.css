@@ -101,6 +101,14 @@ h4 {
   float: right;
 }
 
+.ges{
+color: black;
+width: 800px;
+height: 100px;
+margin: 0 auto;
+font-size: 30px;
+}
+
 .tra{
 color: black;
 width: 800px;
