@@ -126,19 +126,11 @@ font-size: 30px;
   float: left;
 }
 
-table {
-  font-family: sans-serif;
-   border-collapse: collapse;
-  width: 50%;
-  float: left;
-}
 
-td, th {
-  border: 1px solid #dddddd;
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
   text-align: left;
-  padding: 5px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
