@@ -114,7 +114,8 @@ color: black;
 width: 1000px;
 height: 100px;
 margin: 0 auto;
-font-size: 30px;
+font-size: 20px;
+  float: right;
 }
 
 .kwe{
