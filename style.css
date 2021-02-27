@@ -47,9 +47,6 @@ body.back5 {
 
 body.back6 {
         background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Oeteldonk.jpg/260px-Flag_of_Oeteldonk.jpg");
-      -webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
       background-size: cover;
 }
 
