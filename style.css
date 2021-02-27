@@ -21,6 +21,38 @@ body.back1 {
       background-size: cover;
     }
 
+body.back3 {
+          background-image: url("https://st4.depositphotos.com/1066611/21052/i/600/depositphotos_210523940-stock-photo-pattern-white-painted-brick-wall.jpg");
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}
+
+body.back4 {
+        background-image: url("https://st4.depositphotos.com/1066611/21052/i/600/depositphotos_210523940-stock-photo-pattern-white-painted-brick-wall.jpg");
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}
+
+body.back5 {
+        background-image: url("https://st4.depositphotos.com/1066611/21052/i/600/depositphotos_210523940-stock-photo-pattern-white-painted-brick-wall.jpg");
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}
+
+body.back6 {
+        background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Oeteldonk.jpg/260px-Flag_of_Oeteldonk.jpg");
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}
+
    nav ul {
   list-style-type: none;
   margin: 0;
