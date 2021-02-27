@@ -82,3 +82,21 @@ nav active {
 }
   
 
+h2 {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  font-size: 70px;
+  font-family:fantasy;
+  color: #f0f0f0f0;
+}
+
+h3 {
+  position: relative;
+  max-width: 900px;
+  margin: auto;
+  font-size: 35px;
+  font-family: monospace;
+  color: #f0f0f0f0;
+}
+
