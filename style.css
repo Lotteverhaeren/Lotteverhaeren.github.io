@@ -21,7 +21,7 @@ body.back1 {
       background-size: cover;
     }
 
-  ul {
+   nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -29,11 +29,11 @@ body.back1 {
   background-color: #333;
 }
 
-li {
+nav li {
   float: left;
 }
 
-li a {
+nav li a {
   display: block;
   color: white;
   text-align: center;
@@ -41,11 +41,11 @@ li a {
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
+nav li a:hover:not(.active) {
   background-color: #111;
 }
 
-.active {
+nav.active {
   background-color: #4CAF50;
 }
   
