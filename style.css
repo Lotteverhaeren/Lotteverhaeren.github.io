@@ -123,11 +123,12 @@ font-size: 30px;
   height:100px;
   margin: 0 auto;
   font-size: 30px;
+  float: right;
 }
 
 table {
   font-family: arial, sans-serif;
-  border-collapse: collapse;
+   border-collapse: collapse;
   width: 100%;
   float: right;
 }
