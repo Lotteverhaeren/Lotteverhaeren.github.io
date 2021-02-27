@@ -117,6 +117,14 @@ margin: 0 auto;
 font-size: 30px;
 }
 
+.kwe{
+  color: black;
+  width: 800px;
+  height:100px;
+  margin: 0 auto;
+  font-size: 30px;
+}
+
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -126,7 +134,7 @@ table {
 td, th {
   border: 1px solid #dddddd;
   text-align: left;
-  padding: 8px;
+  padding: 5px;
 }
 
 tr:nth-child(even) {
