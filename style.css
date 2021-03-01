@@ -134,3 +134,40 @@ table, th, td {
 th, td {
   padding: 15px;
   text-align: left;
+  
+  input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+  text-align: center;
+}
+input[type="submit"] {
+  background: red;
+  color: white;
+  text-align: center;
+}
+
+.picenter {
+  display: table-cell;
+  height: 300px;
+  text-align: center;
+  width: 1250px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.mail {
+  text-align: center;
+}
+
+.acc{
+color: white;
+width: 800px;
+height: 100px;
+margin: 0 auto;
+font-size: 30px;
+}
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
