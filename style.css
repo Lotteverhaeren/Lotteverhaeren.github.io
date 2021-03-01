@@ -149,12 +149,6 @@ input[type="submit"] {
   text-align: center;
 }
 
-.picenter {
-  display: table-cell;
-  height: 300px;
-  text-align: center;
-  width: 1250px;
-}
 
 .mail {
   text-align: center;
