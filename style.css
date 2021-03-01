@@ -147,13 +147,13 @@ input[type="submit"] {
   text-align: center;
 }
   
-  h6 {
+.con {
   position: relative;
   width: 100%;
   text-align: center;
   font-size: 200px;
   font-family:fantasy;
-  color: white;
+  color: #ffffff;
   }
 
 .picenter {
