@@ -151,9 +151,9 @@ input[type="submit"] {
   position: relative;
   width: 100%;
   text-align: center;
-  font-size: 70px;
+  font-size: 200px;
   font-family:fantasy;
-  color: #FFFFFF;
+  color: white;
   }
 
 .picenter {
