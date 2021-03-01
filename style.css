@@ -144,7 +144,7 @@ input {
 }
   
 input[type="submit"] {
-  background: #ff0000;
+  background: #7cfc00;
   color: #ffffff;
   text-align: center;
 }
@@ -152,14 +152,6 @@ input[type="submit"] {
 
 .mail {
   text-align: center;
-}
-
-.acc{
-color: #ffffff;
-width: 800px;
-height: 100px;
-margin: 0 auto;
-font-size: 30px;
 }
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
